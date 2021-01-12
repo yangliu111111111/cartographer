@@ -1,0 +1,2 @@
+cartographer:cartographer_ros/cartographer_ros:cartographer_ros/cartographer_ros_msgs:cartographer_ros/cartographer_rviz:flash_go
+-G Ninja -DCATKIN_DEVEL_PREFIX=/home/yang/code/cartographer/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/yang/code/cartographer/install_isolated
